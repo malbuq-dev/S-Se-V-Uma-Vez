@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+dataset/**/*.jpg
+dataset/**/*.png
+dataset/**/*.txt
+dataset/**/*.csv
+
+*.mp4
+
+*.pt
+*.pth
+*.pth.tar
+
+runs/
+wandb/
+*.log
+
